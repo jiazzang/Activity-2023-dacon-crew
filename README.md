@@ -2,7 +2,7 @@
 
 ### 데이크루 소개
 데이크루(DACrew)는 데이콘 플랫폼 커뮤니티의 활성화를 위해 양질의 컨텐츠를 제작하는 서포터즈입니다. 데이크루 4기에서는 그동안 데이콘에서 열렸던 대회의 데이터를 활용하여 프로젝트 기반 학습 자료를 만드는 활동을 진행하였습니다.
-![dacon20220919](https://user-images.githubusercontent.com/118996664/226500286-59e8b8e6-b68f-471e-9902-b41aa60f4235.png){: width="300" height="300"}
+<img src="https://user-images.githubusercontent.com/118996664/226500286-59e8b8e6-b68f-471e-9902-b41aa60f4235.png" width="300" height="300"/>
 
 ### 활동 내용
 데이크루 4기의 미션은 프로젝트 기반 학습 자료(Project Based Learning, PBL) 제작입니다. 데이콘의 다양한 경진대회 데이터를 활용하여 총 여섯 단계로 이루어진 PBL 콘텐츠를 만들었습니다.
